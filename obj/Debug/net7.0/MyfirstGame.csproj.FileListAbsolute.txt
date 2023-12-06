@@ -1,0 +1,14 @@
+/home/martin/Desktop/Csharp/MyfirstGame/bin/Debug/net7.0/MyfirstGame
+/home/martin/Desktop/Csharp/MyfirstGame/bin/Debug/net7.0/MyfirstGame.deps.json
+/home/martin/Desktop/Csharp/MyfirstGame/bin/Debug/net7.0/MyfirstGame.runtimeconfig.json
+/home/martin/Desktop/Csharp/MyfirstGame/bin/Debug/net7.0/MyfirstGame.dll
+/home/martin/Desktop/Csharp/MyfirstGame/bin/Debug/net7.0/MyfirstGame.pdb
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.AssemblyInfoInputs.cache
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.AssemblyInfo.cs
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.csproj.CoreCompileInputs.cache
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.dll
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/refint/MyfirstGame.dll
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.pdb
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/MyfirstGame.genruntimeconfig.cache
+/home/martin/Desktop/Csharp/MyfirstGame/obj/Debug/net7.0/ref/MyfirstGame.dll
